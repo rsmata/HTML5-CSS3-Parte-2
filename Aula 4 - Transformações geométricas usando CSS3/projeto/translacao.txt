@@ -1,0 +1,3 @@
+Na horizontal: cos(45) * (altura - largura) + largura
+
+Na vertical: -1 * sen(45) * altura
